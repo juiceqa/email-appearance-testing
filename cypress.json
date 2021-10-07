@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://litmus.com",
+  "baseUrl": "https://litmus.com/",
   "pageLoadTimeout": 120000,
   "defaultCommandTimeout": 20000,
   "env": {
@@ -7,8 +7,8 @@
     "notificationScreenFolderAPI": "notificationScreenAPI",
     "waitTime": 10000,
     "litmusCredentials": {
-      "login": "*********",
-      "password": "*********"
+      "login": "qa@juicepharma.com",
+      "password": "Mobile*524"
     }
   }
 }
